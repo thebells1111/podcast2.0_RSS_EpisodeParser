@@ -1,0 +1,26 @@
+{
+  "name": "podcast2.0_rss_episodeparser",
+  "version": "0.0.1",
+  "description": "Parse an RSS Feed and return an array of objects similar to the the Podcasting Index Episode API",
+  "main": "parseRssEpisodes.js",
+  "dependencies": {
+    "fast-xml-parser": "^3.18.0",
+    "node-fetch": "^2.6.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thebells1111/podcast2.0_RSS_EpisodeParser.git"
+  },
+  "keywords": [
+    "podcast2.0",
+    "podcast",
+    "rss",
+    "parser"
+  ],
+  "author": "Steven Bell",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/thebells1111/podcast2.0_RSS_EpisodeParser/issues"
+  },
+  "homepage": "https://github.com/thebells1111/podcast2.0_RSS_EpisodeParser#readme"
+}
